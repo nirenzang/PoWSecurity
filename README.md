@@ -1,4 +1,4 @@
-# Analyzing PoW Protocols's Security
+# Evaluating PoW Consensus Protocols's Security
 This is the evaluation code used in the [40th IEEE Symposium on Security &amp; Privacy (S&P'19)](https://www.ieee-security.org/TC/SP2019/) paper ["Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security"](https://www.esat.kuleuven.be/cosic/publications/article-3005.pdf) by [Ren Zhang](https://scholar.google.be/citations?user=JB1uRvQAAAAJ&hl=en) and [Bart Preneel](https://scholar.google.be/citations?user=omio-RsAAAAJ&hl=en). Developed by Ren Zhang.
 
 The code computes the optimal strategies and the maximum utilities of an attacker within different PoW protocols and attacker goals (security metrics), under different mining power distributions and network propagation parameters. Please check the paper for the complete definitions of the settings. Note that some simple conversions might be required to compute the security metrics from the MDP outputs. The following metric-protocol pairs are included in this repository:
