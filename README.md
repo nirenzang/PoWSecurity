@@ -54,7 +54,7 @@ Zhang R., Preneel B. (2019) Lay Down the Common Metrics: Evaluating Proof-of-Wor
  author = {Ren Zhang and Bart Preneel},
  title = {Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security},
  booktitle = {Proceedings of the 40th IEEE Symposium on Security and Privacy},
- series = {S\&P '19},
+ series = {S\&P},
  year = {2019},
  publisher = {IEEE}
 } 
