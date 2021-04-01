@@ -31,6 +31,9 @@ addpath('/users/yourname/Desktop/matlab/MDPtoolbox/fsroot/MDPtoolbox');
 5. Modify the parameters in `Init.m`. See their definitions in the paper.
 6. Run `Init.m`.
 
+## Quick Results
+Thanks to [rami-github](https://github.com/rami-github)'s suggestion, I uploaded the numerical values used in the paper's plots as `Results.xlsx`, so that there is no need to run Matlab for a simple comparison.
+
 ## Implementation
 * `Init.m`
 The portal of the program. The parameters are specified here.
